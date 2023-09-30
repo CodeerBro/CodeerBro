@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul shamad</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <br>
-<img alt="rangking" width="800" src="https://media.tenor.com/sw3owN8RAqMAAAAC/aghhh-discord-rank.gif">
+<img alt="rangking" src="https://media.tenor.com/sw3owN8RAqMAAAAC/aghhh-discord-rank.gif">
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/r5ycKQT19B8AAAAd/coding-time-coding.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p>
