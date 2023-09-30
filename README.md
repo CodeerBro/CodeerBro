@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul shamad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" width="480"></iframe></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeerbro" alt="codeerbro" /></a> </p>
