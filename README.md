@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul shamad</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47yvq0tx9wjljtgx09g1h2smonuvr8esiszxd2u715&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img class="center" alt="coding" width="400" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p>
 
