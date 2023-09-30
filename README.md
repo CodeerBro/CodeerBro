@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/r5ycKQT19B8AAAAd/coding-time-coding.gif">
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p> -->
 
 <br>
 - 🔭 I’m currently working on [Netflix clone](Link Coming soon)
