@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **WEB DEVELOPER**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at Projects Repositories
 
 - 💬 Ask me about **HTML, CSS, Javascript and React**
 
