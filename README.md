@@ -6,9 +6,9 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p> -->
 
 <br>
-- 🔭 I’m currently working on [Netflix clone](Link Coming soon)
+- 🔭 I’m currently working on Some Projects
 
-- 🌱 I’m currently learning **Tailwind css**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **With web expert**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **techsamad5@gmail.com**
 
-- 📄 Know about my experiences [Coming soon](Coming soon)
+- 📄 Know about my experiences: I am 6+ month front-end dev.
 
 - ⚡ Fun fact **I am a programmer**
 
