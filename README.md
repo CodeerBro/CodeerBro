@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abdul shamad</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Mobile app developer from India.</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/r5ycKQT19B8AAAAd/coding-time-coding.gif">
 <br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeerbro&label=Profile%20views&color=0e75b6&style=flat" alt="codeerbro" /> </p> -->
 
 <br>
-- 🔭 I’m currently working on Some Projects
+- 🔭 I’m currently working on a Fitness Project
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **With web expert**
+- 👯 I’m looking to collaborate on **With React native** expert.
 
-- 🤝 I’m looking for help with **WEB DEVELOPER**
 
 - 👨‍💻 All of my projects are available at Projects Repositories
 
-- 💬 Ask me about **HTML, CSS, Javascript and React**
+- 💬 Ask me about **HTML, CSS, Javascript and Reactjs, React Native, TailwindCss, Nativewind,**
 
-- 📫 How to reach me **techsamad5@gmail.com**
+- 📫 How to reach me **contactshamad@gmail.com**
 
-- 📄 Know about my experiences: I am 6+ month front-end dev.
+- 📄 Know about my experiences: I am 6+ experience in **React Native** Develeloper.
 
 - ⚡ Fun fact **I am a programmer**
 
