@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul shamad</h1>
-<h3 align="center">A passionate Mobile app developer from India.</h3>
+<h3 align="center">A passionate Mobile app developer!.</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/r5ycKQT19B8AAAAd/coding-time-coding.gif">
 <br>
